@@ -1,7 +1,7 @@
 bonjour! moi c'est Satry o/
 ------
 + **ce que je fais**: LDD1 informatique/mathématiques à paris-saclay
-+ **langages travaillés**: python, c++, gdscript, processing (java)
++ **langages travaillés**: python, c++, processing (java)
 + **projets en cours**:
   + [éditeur de mosaïque (repo privé)](https://gitlab.dsi.universite-paris-saclay.fr/satry.razanahoera/mosaic-editor) sur processing (java)
   + [traitement d'images numériques (sujet)](https://nicolas.thiery.name/Enseignement/Info111/Projet-Image/index.html) en c++
